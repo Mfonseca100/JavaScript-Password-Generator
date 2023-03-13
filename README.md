@@ -42,6 +42,6 @@ You are required to submit the following for review:
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
 
 ## Screenshot of completed Password Generator, with a password example. 
-![Password Generator Screenshot](./Assets/Screenshot.png)
+![Password Generator Screenshot](./images/Screenshot.png)
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
